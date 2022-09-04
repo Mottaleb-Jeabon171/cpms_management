@@ -35,7 +35,7 @@ if ($fromdate == '') {
 						echo "<th style='border: 1px solid #777 !important;'>মোট মূলঃ</th>";
 						echo "<th style='border: 1px solid #777 !important;'>মোট জমাঃ</th>";
 						echo "<th style='border: 1px solid #777 !important;'>মো‌ট জেরঃ</th>";
-						echo "<th style='border: 1px solid #777 !important;'>নিজ পাওনাঃ</th>";
+						echo "<th style='border: 1px solid #777 !important;'>নিজ পাওনা</th>";
 						 echo "</tr>"; 
 
 
